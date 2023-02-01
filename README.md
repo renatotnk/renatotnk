@@ -1,5 +1,5 @@
 ## 👋 ようこそ!  
-- I'm [Renato](https://github.com/renatotnk), welcome to my GitHub profile! 
+I'm [Renato](https://github.com/renatotnk), welcome to my GitHub profile! 
 
 <!-- TODO: Link to portfolio  -->
 
