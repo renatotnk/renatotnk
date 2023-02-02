@@ -4,7 +4,7 @@ I'm [Renato](https://github.com/renatotnk), welcome to my GitHub profile!
 <!-- TODO: Link to portfolio  -->
 
 ## 💫 About Me:
-- 🏫 [UDESC](https://www.udesc.br/cct) - Bachelor's Degree in Computer Science
+- 🏫 Bachelor's Degree in Computer Science at [UDESC](https://www.udesc.br/cct)
 - 👷‍♂️ I’m currently working at [Smartmove S.A.](https://www.smartmove.pt)
 - 🌍 I’m currently based in Lisbon, PT
 - 🌱 I’m currently learning React Native and AWS
