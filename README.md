@@ -30,6 +30,6 @@ I'm [Renato](https://github.com/renatotnk), welcome to my GitHub profile!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renatotnk&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-tnk) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/renato-tnk](https://www.linkedin.com/in/renato-tnk/?locale=en_US)) 
 
 <!-- TODO: Link to CV / resume  -->
