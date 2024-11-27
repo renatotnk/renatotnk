@@ -7,13 +7,13 @@ I'm [Renato](https://github.com/renatotnk), welcome to my GitHub profile!
 - 🏫 Bachelor's Degree in Computer Science at [UDESC](https://www.udesc.br/cct)
 - 👷‍♂️ I’m currently working at Wiser Educação
 - 🌍 I’m currently based in Londrina - BR
-- 🌱 I’m currently learning Airflow and GCP
+- 🌱 I’m currently learning Databricks
 
 ## :computer: Work / Experience
 - Languages I know or already worked with: 
-    - Typescript, PHP, Python, Java
+    - Python, Typescript, PHP, Java
 - Technologies I know or already worked with:
-    - React, Next.js, Express, Node.js, Spring Boot, Postgres, MySQL, Git, Firebase
+    - Airflow, Spark, Lambda/Cloud Functions, BigQuery, Pub/Sub
 - Methodologies I had contact with:
     - Agile, unit and integration tests
 
