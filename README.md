@@ -5,7 +5,7 @@ I'm [Renato](https://github.com/renatotnk), welcome to my GitHub profile!
 
 ## 💫 About Me:
 - 🏫 Bachelor's Degree in Computer Science at [UDESC](https://www.udesc.br/cct)
-- 👷‍♂️ I’m currently working at Wiser Educação
+- 👷‍♂️ I’m currently a Data Engineer working at Wiser Educação
 - 🌍 I’m currently based in Londrina - BR
 - 🌱 I’m currently learning Databricks
 
